@@ -20,6 +20,7 @@ A Document QA Model PoC based on SOTA research.
 
 ## Teck Stack
 **Languages:** Python
+
 **Libraries:** PyTorch, LangChain, PyMuPDF, SentenceTransformers, NumPy, FAISS, and more
 
 ## Implementation Steps
@@ -33,7 +34,8 @@ my_api_key=""
 5. Run each cell individually from the beginning (note: the kernal will restart for condocolab, just continue from where you left off)
 
 ## Demo
-
+If you'd like to see a demo of this, please request access to the demo video from this link:
+[https://drive.google.com/file/d/1FNyV9AFxp89T7fCn4hClkkyHnzbgfqjW/view?usp=sharing](url)
 
 ## 3-Page Research Paper (By Vedik Upadhyay):
 A more in-depth paper on my solution with publication references is detailed in `DocQA Final Paper.pdf`
